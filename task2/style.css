@@ -1,0 +1,27 @@
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+#consolelog {
+    margin-top: 5px;
+    margin-left: 600px;
+    margin-right: 600px;
+    background-color: beige;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#alert1 {
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 5px;
+    background-color: beige;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#prompt1 {
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 5px;
+    background-color: beige;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
